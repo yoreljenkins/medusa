@@ -1,5 +1,17 @@
 # @medusajs/dashboard
 
+## 2.10.2
+
+### Patch Changes
+
+- [#13324](https://github.com/medusajs/medusa/pull/13324) [`f53f027ce68b0518968482dccafeadd68cc55433`](https://github.com/medusajs/medusa/commit/f53f027ce68b0518968482dccafeadd68cc55433) Thanks [@fPolic](https://github.com/fPolic)! - fix(dashboard): rules form operator change
+
+- Updated dependencies []:
+  - @medusajs/admin-shared@2.10.2
+  - @medusajs/js-sdk@2.10.2
+  - @medusajs/icons@2.10.2
+  - @medusajs/ui@4.0.22
+
 ## 2.10.1
 
 ### Patch Changes
